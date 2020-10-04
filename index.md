@@ -5,5 +5,5 @@
 [Engage in Your Style](engage.md)
 
 [Banks of Ideas for AI to Solve for Me](inspiration.md)  
-[AI Serendepity](aiserendipity.md)
+[AI Serendepity](aiserendipity.md)  
 [Taste It Fresh](tasteitfresh.md)
