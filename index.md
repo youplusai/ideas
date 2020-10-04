@@ -6,5 +6,5 @@
 [About Us](aboutus.md)  
 [Engage in Your Style](engage.md)
 
-[Banks of Ideas for AI to Solve for Me](inspirantion.md)  
+[Banks of Ideas for AI to Solve for Me](inspiration.md)  
 [AI Serendepity](aiserendipity.md)
