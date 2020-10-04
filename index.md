@@ -1,2 +1,2 @@
-[ideas](ideas.md)
+[Preface](preface.md)
 [About Us](aboutus.md)
