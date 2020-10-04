@@ -3,7 +3,7 @@
 [Sample Inspiration](sample_inspiration.md)  
 [Sample Write Up](sample_chapter.md)  
 [Our Belief](ourbelief.md)  
-[About Us](aboutus.md)
+[About Us](aboutus.md)  
 [Engage in Your Style](engage.md)
 
 [Banks of Ideas for AI to Solve for Me](inspirantion.md)  
