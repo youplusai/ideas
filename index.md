@@ -1,4 +1,2 @@
-# Welcome
-# Preface 
-[Preface](preface.md)
+[ideas](ideas.md)
 [About Us](aboutus.md)
