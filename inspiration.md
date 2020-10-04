@@ -18,3 +18,7 @@ A time saved is a breath gifted.
 It often goes we respect the Teachers for they followed the way we thought, paused us and made us see from where we approached.   
 What if such a  teacher is there for everyone.  
 This is exactly what NLP can bring.
+
+#Did I forget about my Mom?
+We always want to take care of parents' well being that said “Modern” life has stolen every moment. What if an everyday experience can be brought via AI, where a gentle voice reminds mom to take the medicine and she acknowledges using the same. A feeling of completeness is worth it.
+
