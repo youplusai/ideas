@@ -1,7 +1,5 @@
 [Preface](preface.md)  
 [Approach](approach.md)  
-[Sample Inspiration](sample_inspiration.md)  
-[Sample Write Up](sample_chapter.md)  
 [Our Belief](ourbelief.md)  
 [About Us](aboutus.md)  
 [Engage in Your Style](engage.md)
