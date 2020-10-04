@@ -1,6 +1,6 @@
 [Preface](preface.md)
 [Approach](apprach.md)
 [Sample Inspiration](sample_inspiration.md)
-[Sample Inspiration](sample_chpater.md)
+[Sample Write Up](sample_chpater.md)
 [Our Belief](ourbelief.md)
 [About Us](aboutus.md)
