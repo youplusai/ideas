@@ -1,3 +1,5 @@
-#Do I often wear the same Dress?
-A closet might have many dress, but the frequency in which the dress we wear might be imbalanced often reflecting repeating patterns. What is a Calendar record which dress we worn which days and shuffles so it always gives freshness in one.
-How AI can help Solve it.
+#Do I often wear the same clothes?
+
+I have a lot of clothes but what ends up happening is that more often than not, I end up being seen in the same clothes - be it official lunches or evening parties or important ceremonies at home. 
+
+I wonder how this could be solved, if at all?
