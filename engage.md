@@ -1,8 +1,13 @@
-#Engage in Your Style!
+# How can you engage and contribute to *ai4mylife*?
 
-Do what you feel like.  
-Share an Idea, commit to mainline using your github.  
-Being a Variation to an Idea, commit chnages to specific idea.  
-Share a Chapter in Your Style, commit a new chapter.  
-Enhance a Chapter in Your Style, commit chnages to a chapter.  
-Branch of and also host in your GitPages.  
+
+* Add a novel idea to the idea bank.
+* Add variations to an existing idea.
+* Write a chapter picking up an existing idea from the idea bank.
+* Enhance an existing chapter that elaborates on an idea.
+
+
+
+# Contact us
+
+If all you need is a patient ear, reach out to :sparkles: madhucharis@gmail.com and/or :sparkles: youplusai@gmail.com.
