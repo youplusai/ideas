@@ -1,7 +1,7 @@
 # [Preface](preface.md)       [Approach](approach.md)
 # [Our Belief](ourbelief.md)  [About Us](aboutus.md)  
 
-# [Welcome, Enrich with your Ideas](engage.md)
+# [Enrich with your Ideas](engage.md)
 
 ## Compiled Inspirations
 # [Style Today](sample_chapter.md) - by Ranga
