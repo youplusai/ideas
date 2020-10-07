@@ -1,5 +1,5 @@
 # [Preface](preface.md)           [Approach](approach.md)           [Our Belief](ourbelief.md)           [About Us](aboutus.md)  
-# [Welcome and Engage in Your Style and Enrich with your Ideas](engage.md)
+# [Welcome, Engage in Your Style, Enrich with your Ideas](engage.md)
 
 ## Completed Chapters
 # [What do I wear Today](sample_chapter.md)
