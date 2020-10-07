@@ -3,7 +3,7 @@
 
 ## Completed Chapters
 # [What do I wear Today](sample_chapter.md)
-# [Hi There](connectmetomyfriends.md)
+# [Hi There](hithere.md)
 
 ## Drafting In Progress
 # [AI Serendepity](aiserendipity.md)  
