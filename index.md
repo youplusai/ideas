@@ -4,7 +4,7 @@
 # [Enrich with your Ideas](engage.md)
 
 ## Compiled Inspirations
-# [Style Today](sample_chapter.md) - by Ranga (You+AI)
+# [Style Today](sample_chapter.md) - by You+AI
 # [Hi There](hithere.md) - by Madhu
 
 ## Drafting Ideas
