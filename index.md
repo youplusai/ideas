@@ -1,11 +1,13 @@
-# [Preface](preface.md)           [Approach](approach.md)           [Our Belief](ourbelief.md)           [About Us](aboutus.md)  
-# [Welcome, Enrich with your Ideas in your Style](engage.md)
+# [Preface](preface.md)       [Approach](approach.md)
+# [Our Belief](ourbelief.md)  [About Us](aboutus.md)  
 
-## Completed Chapters
-# [Style Today](sample_chapter.md)
-# [Hi There](hithere.md)
+# [Welcome, Enrich with your Ideas](engage.md)
 
-## Drafting In Progress
+## Compiled Inspirations
+# [Style Today](sample_chapter.md) - by Ranga
+# [Hi There](hithere.md) - by Madhu
+
+## Drafting Ideas
 # [AI Serendepity](aiserendipity.md)  
 # [Taste It Fresh](tasteitfresh.md)
 
