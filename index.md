@@ -7,3 +7,4 @@
 # [AI for my Life - Idea Bank](inspiration.md)  
 # [AI Serendepity](aiserendipity.md)  
 # [Taste It Fresh](tasteitfresh.md)
+# [Hi There](connectmetomyfriends.md)
