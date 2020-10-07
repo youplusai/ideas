@@ -89,6 +89,6 @@ Frido - In that case, perhaps you can call your friend Raju as he works on night
 Jeevan - Huh! You remember that? Nice suggestion.
 Frido - Sure and I would recommend confrerence call with another friend Prasanna, who also seems to be off this week and his frido told he is available.
 Jeevan - Oh, I totally forgot about that. Sweet! Thank you Frido!
-Frido - Have a lovely time! Don’t forget to tell me what people said about you, Prince Charming.
+Frido - Have a lovely time! Don’t forget to tell me what your friends told.
 
 ![Alt Text](https://media.giphy.com/media/gKIAoF3K2US2IMm987/giphy.gif)
