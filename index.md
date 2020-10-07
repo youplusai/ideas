@@ -2,7 +2,7 @@
 # [Welcome, Enrich with your Ideas in your Style](engage.md)
 
 ## Completed Chapters
-# [What do I wear Today](sample_chapter.md)
+# [Style Today](sample_chapter.md)
 # [Hi There](hithere.md)
 
 ## Drafting In Progress
