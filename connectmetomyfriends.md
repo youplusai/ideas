@@ -14,7 +14,7 @@ if they are at work, with their childeren, taking care of their parensts, with t
 I don't want to intrude in thier privacy.. but how can I find a frinedly sweet spot to reach out to them.
 
 ## When should I reach?
-![Alt Text](https://gfycat.com/nicewhimsicalindianpalmsquirrel)
+![Alt Text](https://media.giphy.com/media/WpObP6Qx5QXq9TxHyh/giphy.gif)
 
 # What I see vs. what others see
 I choose the best from my memory or past history of when I have spoken to my people. 
