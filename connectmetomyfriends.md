@@ -14,7 +14,7 @@ if they are at work, with their childeren, taking care of their parensts, with t
 I don't want to intrude in thier privacy.. but how can I find a frinedly sweet spot to reach out to them.
 
 ## When should I reach?
-![Alt Text](https://media.giphy.com/media/WpObP6Qx5QXq9TxHyh/giphy.gif)
+![Alt Text](https://media.giphy.com/media/65OOoKUgwJlJpRma8O/giphy.gif)
 
 # What I see vs. what others see
 I choose the best from my memory or past history of when I have spoken to my people. 
@@ -24,7 +24,7 @@ That said, I know people are generally very polite or accomodative and rather sp
 Don’t get me wrong - I don;t intend to disturb but wanted to connet causllay!
 
 ## What others see
-![Alt Text](https://tenor.com/view/not-this-time-now-is-not-the-right-time-not-now-not-the-right-time-right-time-gif-12893649)
+![Alt Text](https://media.giphy.com/media/hwT8NH8dAZPJm/giphy.gif)
 
 
 
@@ -91,4 +91,4 @@ Frido - Sure and I would recommend confrerence call with another friend Prasanna
 Jeevan - Oh, I totally forgot about that. Sweet! Thank you Frido!
 Frido - Have a lovely time! Don’t forget to tell me what people said about you, Prince Charming.
 
-![Alt Text](https://media.tenor.com/images/31ec0b5dcb0bf07347b20fea971c5948/tenor.gif)
+![Alt Text](https://media.giphy.com/media/gKIAoF3K2US2IMm987/giphy.gif)
