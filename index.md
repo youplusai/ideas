@@ -1,6 +1,6 @@
 ## Welcome
-# [Preface](preface.md)       [About Us](aboutus.md)  
-# [Our Belief](ourbelief.md)  [Approach](approach.md)
+# [Preface](preface.md)                       [About Us](aboutus.md)  
+# [Our Belief](ourbelief.md)                  [Approach](approach.md)
 # [Enrich with your Ideas](engage.md)
 
 ## Compiled Inspirations
